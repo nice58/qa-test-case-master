@@ -1,0 +1,7 @@
+Temp/
+obj/
+Logs/
+Library/
+Assembly-CSharp.csproj
+EasyCharacterMovement.CharacterMovement.csproj
+.idea/
